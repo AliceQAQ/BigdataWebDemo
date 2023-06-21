@@ -1,3 +1,3 @@
 import os
 filename = './sources/NerverGonnaGiveyouup.mp4'
-os.system("mpv "+filename)
+os.system("./sources/mpv.exe "+filename)
